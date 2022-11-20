@@ -1,6 +1,6 @@
 package Ejercicio1;
 
-public class App {
+public class EjecutableApp {
     public static void main (String args[]){
         Cuenta cuenta_1 = new Cuenta ("Cuenta");
         Cuenta cuenta_2 = new Cuenta ("Esteban", 800);
